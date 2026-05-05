@@ -1,0 +1,7 @@
+// .env
+PORT=3000
+JWT_SECRET=your_super_secret_jwt_key_change_this
+FIREBASE_PROJECT_ID=twasol-a6376
+FIREBASE_PRIVATE_KEY=your_firebase_private_key
+FIREBASE_CLIENT_EMAIL=your_firebase_client_email
+IMGBB_KEY=2daa4a8113066b3b9b658cdb063c99b5
